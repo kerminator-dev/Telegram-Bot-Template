@@ -8,7 +8,7 @@ namespace TelegramBot.Models.Commands
 
         public async override void Execute(Message message)
         {
-            string text = "Hi there! I am bot a .NET 5 Web Hook based bot!";
+            string text = "Hi there! I am a .NET 5 Web Hook based bot!";
 
             await Bot.Client.SendTextMessageAsync(message.Chat.Id, text);
         }
