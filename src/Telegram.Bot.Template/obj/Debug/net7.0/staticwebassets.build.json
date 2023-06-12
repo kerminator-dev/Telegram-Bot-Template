@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7zUmn9+dW6syuSR3/GyJk9/leS5MXHzstcQq+jwb3YQ=",
+  "Source": "Telegram.Bot.Template",
+  "BasePath": "_content/Telegram.Bot.Template",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
